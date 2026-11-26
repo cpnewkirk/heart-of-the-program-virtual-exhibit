@@ -8,7 +8,7 @@ import livingArchiveLabsLogo from "./assets/living-archive-labs-logo.png";
 
 // Replace these values before publishing.
 const ARTIFACT_ARCHIVE_URL = "https://drive.google.com/drive/folders/1eJKaJn6LhmDDtKEmRfM23CXBATjiM865?usp=sharing";
-const GET_INVOLVED_PDF = "/how-to-get-involved.pdf";
+const GET_INVOLVED_PDF = "/heart-of-the-program-virtual-exhibit/how-to-get-involved.pdf";
 
 const chapters = [
   {
